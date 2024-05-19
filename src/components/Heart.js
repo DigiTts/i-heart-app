@@ -1,4 +1,5 @@
 import Heartlogo from '../assets/heart.svg';
+import Heart from './Heart';
 
 const Heart = (props) => {
     return (
